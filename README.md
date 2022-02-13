@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
+I'm Mauro, a PhD student in Machine Learning at the University of Bristol (UK). I am interested in Reinforcement Learning, Bayesian inference and physics-simulation. Check out my personal webpage at [maurocomi.com](https://maurocomi.com/)
 <!--
 **maurock/maurock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
